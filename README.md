@@ -1,2 +1,2 @@
 # Analog-Clock
-creative animated analog clock with glow effects and smooth motion,
+Creative analog clock using Tkinter - Internship Assignment
